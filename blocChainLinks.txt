@@ -1,0 +1,35 @@
+web3 usefull links and documentations:
+
+
+sanbox to create any etheruem code with blocks:
+https://sandbox.eth.build/
+
+ecdsa online sign:
+https://www.javacardos.com/tools/ecdsa-sign-verify
+https://kjur.github.io/jsrsasign/sample/sample-ecdsa.html
+
+RLP encoder decoder:
+https://codechain-io.github.io/rlp-debugger/
+
+Ethereum toolkit:
+https://toolkit.abdk.consulting/ethereum#transaction
+
+polygon faucet:
+https://faucet.polygon.technology/
+
+ethereum tools:
+https://ethereum.org/en/developers/learning-tools/
+https://ethereum.org/en/developers/
+
+ecdsa tutorial:
+https://cryptobook.nakov.com/digital-signatures/ecdsa-sign-verify-messages
+
+chainID:
+https://chainid.network/
+
+learnmeabitcoin:
+https://learnmeabitcoin.com/technical/
+
+iancolman:
+https://iancoleman.io/bip39/#english
+
